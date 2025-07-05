@@ -1,6 +1,6 @@
 # FC 25 Player Data Analysis
 
-![FC 25 Player Analysis Screenshot](images/image.png)
+![FC 25 Player Analysis Screenshot](FC25-Player-Analysis-Screenshot.png)
 
 ## Project Overview
 
