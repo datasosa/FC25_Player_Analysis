@@ -1,5 +1,7 @@
 # FC 25 Player Data Analysis
 
+![FC 25 Player Analysis Screenshot](images/image.png)
+
 ## Project Overview
 
 This project involves a comprehensive exploratory data analysis (EDA) of a dataset containing player statistics from the FC 25 video game (likely from a June 2025 update). The primary goal is to clean, transform, and analyze the raw player data to extract meaningful insights, identify key player trends, and pinpoint valuable talents, including high-potential future stars.
